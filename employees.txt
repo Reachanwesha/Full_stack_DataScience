@@ -1,0 +1,3 @@
+name:ani
+age:23
+salary:30,000
